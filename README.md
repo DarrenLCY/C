@@ -31,7 +31,7 @@ We assumed that the distance values are within the range of (0, 100).
 On the same sample input data, the additional output for this stage should be:
 
 Stage 2
-==========
+
 Accident: #2693452, distance to reference: 08.57 |---------
 Accident: #2693453, distance to reference: 08.44 |---------
 Accident: #2693454, distance to reference: 04.46 |-----
