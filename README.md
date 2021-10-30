@@ -30,18 +30,16 @@ Task 2 was to modify our program so that the distance to the reference point
 We assumed that the distance values are within the range of (0, 100). 
 On the same sample input data, the additional output for this stage should be:
 
-Stage 2
-
 Accident: #2693452, distance to reference: 08.57 |---------  
 Accident: #2693453, distance to reference: 08.44 |---------  
-Accident: #2693454, distance to reference: 04.46 |-----
-Accident: #2693455, distance to reference: 15.45 |---------+------
-Accident: #2693456, distance to reference: 30.37 |---------+---------+---------+-
-Accident: #2693458, distance to reference: 04.94 |-----
-Accident: #2693459, distance to reference: 22.05 |---------+---------+---
-Accident: #2693460, distance to reference: 28.94 |---------+---------+---------
-Accident: #2693461, distance to reference: 14.70 |---------+-----
-Accident: #2693462, distance to reference: 01.85 |--
+Accident: #2693454, distance to reference: 04.46 |-----  
+Accident: #2693455, distance to reference: 15.45 |---------+------  
+Accident: #2693456, distance to reference: 30.37 |---------+---------+---------+-  
+Accident: #2693458, distance to reference: 04.94 |-----  
+Accident: #2693459, distance to reference: 22.05 |---------+---------+---  
+Accident: #2693460, distance to reference: 28.94 |---------+---------+---------  
+Accident: #2693461, distance to reference: 14.70 |---------+-----  
+Accident: #2693462, distance to reference: 01.85 |--  
 
 Task 3 was to use strings to store the accident days. The additional output from this stage 
 is the total number of accident records, the day of week with the most accidents, and the 
