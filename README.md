@@ -6,10 +6,10 @@ University of Melbourne. In this assignment, my task was to analyse
 the spatial and temporal distributions of traffic accidents. We
 were given a list of traffic accident records like the one shown below:
  
-2693452 145.060689 -37.810373 26/5/12 11 Saturday
-2693453 144.991172 -37.883156 6/6/12 15 Wednesday
-2693454 145.009458 -37.826952 24/5/12 09 Thursday
-2693455 145.134597 -37.841545 6/6/12 17 Wednesday
+2693452 145.060689 -37.810373 26/5/12 11 Saturday  
+2693453 144.991172 -37.883156 6/6/12 15 Wednesday  
+2693454 145.009458 -37.826952 24/5/12 09 Thursday  
+2693455 145.134597 -37.841545 6/6/12 17 Wednesday  
 
 Particularly, each line of the list contains the information of a traffic 
 accident separated by spaces (' '), including the unique ID (a 7-digit
