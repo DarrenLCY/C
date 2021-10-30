@@ -32,8 +32,8 @@ On the same sample input data, the additional output for this stage should be:
 
 Stage 2
 
-Accident: #2693452, distance to reference: 08.57 |---------
-Accident: #2693453, distance to reference: 08.44 |---------
+Accident: #2693452, distance to reference: 08.57 |---------  
+Accident: #2693453, distance to reference: 08.44 |---------  
 Accident: #2693454, distance to reference: 04.46 |-----
 Accident: #2693455, distance to reference: 15.45 |---------+------
 Accident: #2693456, distance to reference: 30.37 |---------+---------+---------+-
